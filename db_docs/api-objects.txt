@@ -1,0 +1,7 @@
+db	db-module.html
+db.readDB	db-module.html#readDB
+db.IFDEBUG	db-module.html#IFDEBUG
+db.__package__	db-module.html#__package__
+db.remove_control_characters	db-module.html#remove_control_characters
+db.ingestDB	db-module.html#ingestDB
+db.updateDB	db-module.html#updateDB

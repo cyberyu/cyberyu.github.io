@@ -1,0 +1,4 @@
+doc_to_label	doc_to_label-module.html
+doc_to_label.doc_to_label	doc_to_label-module.html#doc_to_label
+doc_to_label.__package__	doc_to_label-module.html#__package__
+doc_to_label.main	doc_to_label-module.html#main
